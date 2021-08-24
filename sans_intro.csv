@@ -4,7 +4,11 @@
 0,SansText,Cheep Cheeps are cheeping.,,,,
 0,SansText,Fire Flowers are blooming.,,,,
 0,SansText,On day like these toad             like you . . .,,,
-
+0,BlackScreen,1,,,,,,,
+0,Sound,Flash,,,,,,,
+0.8,BlackScreen,0,,,,,,,
+0,Sound,Flash,,,,,,,
 0,SansHead,NoEyes,,,,,,,
-1.1,SansAnimation,,,,,,,,
+0,SansText,Should Be Burning In The                   Deepest Part Of The Underwhere.,,,,
 0,EndAttack,,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
