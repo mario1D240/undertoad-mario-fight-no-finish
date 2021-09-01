@@ -5,9 +5,8 @@
 0,SansHead,Default,,
 0,SansText,I already figured out               that you are being controlled                  by him.,,,
 0,SansAnimation,Idle,,,,
-0.2,BoneVRepeat,128,257,55,0,180,50,50
 0,BoneVRepeat,128,366,60,0,180,8,125
-0.1,BoneVRepeat,128,366,60,0,180,8,125
+0,BoneVRepeat,128,366,60,0,180,8,125
 0.1,BoneVRepeat,503,366,60,2,180,8,125
 0.1,BoneVRepeat,503,366,60,2,180,8,125
 6.4,EndAttack,,,,,,,
